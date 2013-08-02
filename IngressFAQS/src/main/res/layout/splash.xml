@@ -9,6 +9,6 @@
     android:background="@drawable/splash"
     tools:context=".Splash">
 
-   
+
 
 </RelativeLayout>
